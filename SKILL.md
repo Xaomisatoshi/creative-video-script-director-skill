@@ -1,7 +1,8 @@
 ---
 name: creative-video-script-director
-description: Create complete, creative, professional, production-ready video scripts from a topic, title, idea, question, rough concept, or source notes. Use when the user wants a finished script for YouTube, Shorts, Reels, TikTok, explainers, documentaries, educational videos, cinematic stories, science/history/AI topics, or other narrative video formats. Support durations from about 30 seconds to 10 minutes. If duration is not specified, choose the most effective length for the topic and explain no unnecessary process.
+description: Create complete, creative, professional, production-ready video scripts from a topic, title, idea, question, rough concept, or source notes. Use when the user wants a finished script for YouTube, Shorts, Reels, TikTok, explainers, documentaries, educational videos, cinematic stories, science/history/AI topics, or other narrative video formats
 ---
+
 
 # Creative Video Script Director
 
